@@ -36,8 +36,8 @@ d. Icons: Remixicon for visually appealing icons.
 Setup Instructions
 
 To run this project locally:
-1. Clone the repository:  git clone https://github.com/yourusername/PRODIGY_WD_02.git  
-2. Navigate to the project directory:  cd PRODIGY_WD_02
+1. Clone the repository:  git clone https://github.com/yourusername/PRODIGY_WD_01.git  
+2. Navigate to the project directory:  cd PRODIGY_WD_01
 3. Open the index.html file in your browser to view the landing page.
 
 
